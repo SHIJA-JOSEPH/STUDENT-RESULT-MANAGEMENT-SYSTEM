@@ -19,3 +19,11 @@ This project is a lightweight web-based student results management system built 
 ## Launcher
 - On Windows, double-click run.bat
 - Or run `python -m http.server 3000` from this folder
+
+
+name :SHIJA JOSEPH MHULI
+regstration number :14325031/T.24
+programme: Bsc.EDU(MICT) II
+course : web programming
+
+@kadefue
