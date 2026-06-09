@@ -21,9 +21,13 @@ This project is a lightweight web-based student results management system built 
 - Or run `python -m http.server 3000` from this folder
 
 
-name :SHIJA JOSEPH MHULI
+name :SHIJA JOSEPH MHULI    
+
 regstration number :14325031/T.24
+
 programme: Bsc.EDU(MICT) II
+
 course : web programming
+
 
 @kadefue
