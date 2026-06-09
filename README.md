@@ -20,6 +20,7 @@ This project is a lightweight web-based student results management system built 
 - On Windows, double-click run.bat
 - Or run `python -m http.server 3000` from this folder
 
+## author
 
 name :SHIJA JOSEPH MHULI    
 
